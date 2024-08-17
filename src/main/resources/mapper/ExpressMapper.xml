@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xhu.computermall.dao.mapper.ExpressMapper">
+  <resultMap id="BaseResultMap" type="com.xhu.computermall.dao.model.Express">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="express_id" jdbcType="INTEGER" property="expressId" />
+    <result column="order_id" jdbcType="INTEGER" property="orderId" />
+    <result column="exp_time" jdbcType="TIMESTAMP" property="expTime" />
+    <result column="curr_location" jdbcType="VARCHAR" property="currLocation" />
+    <result column="remark" jdbcType="VARCHAR" property="remark" />
+  </resultMap>
+</mapper>
