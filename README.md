@@ -6,7 +6,7 @@
 4.  运行MallApplication类的main方法，启动项目
 5.  在浏览器输入首页地址：http://localhost:9080/mall/index 
   
-![首页](src/main/webapp/images/index.jpg)
+![首页](http://129.211.222.131:18080/images/github/eshopindex.jpg)
   
-![详情](src/main/webapp/images/detail.jpg)
+![详情](http://129.211.222.131:18080/images/github/eshopdetail.jpg)
 
